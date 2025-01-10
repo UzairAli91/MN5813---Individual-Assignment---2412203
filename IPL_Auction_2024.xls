@@ -1,0 +1,509 @@
+,Player,Base Price,TYPE,COST IN ₹ (CR.),Cost IN $ (000),2023 Squad,Team
+0,Spencer Johnson,5000000,BOWLER,10,1200,,Gujarat Titans
+1,Shahrukh Khan,4000000,ALL-ROUNDER,7.4,888,PBKS,Gujarat Titans
+2,Umesh Yadav,20000000,BOWLER,5.8,696,KKR,Gujarat Titans
+3,Robin Minz,2000000,WICKETKEEPER,3.6,432,,Gujarat Titans
+4,Sushant Mishra,2000000,BOWLER,2.2,264,,Gujarat Titans
+5,Kartik Tyagi,2000000,BOWLER,0.6,72,SRH,Gujarat Titans
+6,Azmatullah Omarzai,5000000,ALL-ROUNDER,0.5,60,,Gujarat Titans
+7,Manav Suthar,2000000,BOWLER,0.2,24,,Gujarat Titans
+8,David Miller,Retained,BATTER,0,0,,Gujarat Titans
+9,Shubman Gill,Retained,BATTER,0,0,,Gujarat Titans
+10,Matthew Wade,Retained,WICKETKEEPER,0,0,,Gujarat Titans
+11,Wriddhiman Saha,Retained,WICKETKEEPER,0,0,,Gujarat Titans
+12,Kane Williamson,Retained,BATTER,0,0,,Gujarat Titans
+13,Abhinav Manohar,Retained,BATTER,0,0,,Gujarat Titans
+14,B. Sai Sudharsan,Retained,BATTER,0,0,,Gujarat Titans
+15,Darshan Nalkande,Retained,BOWLER,0,0,,Gujarat Titans
+16,Vijay Shankar,Retained,ALL-ROUNDER,0,0,,Gujarat Titans
+17,Jayant Yadav,Retained,BOWLER,0,0,,Gujarat Titans
+18,Rahul Tewatia,Retained,ALL-ROUNDER,0,0,,Gujarat Titans
+19,Mohammed Shami,Retained,BOWLER,0,0,,Gujarat Titans
+20,Noor Ahmad,Retained,BOWLER,0,0,,Gujarat Titans
+21,R. Sai Kishore,Retained,BOWLER,0,0,,Gujarat Titans
+22,Rashid Khan,Retained,BOWLER,0,0,,Gujarat Titans
+23,Joshua Little,Retained,BOWLER,0,0,,Gujarat Titans
+24,Mohit Sharma,Retained,BOWLER,0,0,,Gujarat Titans
+25,Daryl Mitchell,10000000,ALL-ROUNDER,14,1680,,Chennai Super Kings
+26,Sameer Rizvi,2000000,BATTER,8.4,1008,,Chennai Super Kings
+27,Shardul Thakur,20000000,ALL-ROUNDER,4,480,KKR,Chennai Super Kings
+28,Mustafizur Rahman,20000000,BOWLER,2,240,DC,Chennai Super Kings
+29,Rachin Ravindra,5000000,ALL-ROUNDER,1.8,216,,Chennai Super Kings
+30,Avanish Rao Aravelly,2000000,WICKETKEEPER,0.2,24,,Chennai Super Kings
+31,MS Dhoni,Retained,WICKETKEEPER,0,0,,Chennai Super Kings
+32,Moeen Ali,Retained,BATTER,0,0,,Chennai Super Kings
+33,Deepak Chahar,Retained,BOWLER,0,0,,Chennai Super Kings
+34,Devon Conway,Retained,WICKETKEEPER,0,0,,Chennai Super Kings
+35,Tushar Deshpande,Retained,BOWLER,0,0,,Chennai Super Kings
+36,Shivam Dube,Retained,BATTER,0,0,,Chennai Super Kings
+37,Ruturaj Gaikwad,Retained,BATTER,0,0,,Chennai Super Kings
+38,Rajvardhan Hangargekar,Retained,ALL-ROUNDER,0,0,,Chennai Super Kings
+39,Ravindra Jadeja,Retained,ALL-ROUNDER,0,0,,Chennai Super Kings
+40,Ajay Mandal,Retained,ALL-ROUNDER,0,0,,Chennai Super Kings
+41,Mukesh Choudhary,Retained,BOWLER,0,0,,Chennai Super Kings
+42,Matheesha Pathirana,Retained,BOWLER,0,0,,Chennai Super Kings
+43,Ajinkya Rahane,Retained,BATTER,0,0,,Chennai Super Kings
+44,Shaik Rasheed,Retained,BATTER,0,0,,Chennai Super Kings
+45,Mitchell Santner,Retained,ALL-ROUNDER,0,0,,Chennai Super Kings
+46,Simarjeet Singh,Retained,BOWLER,0,0,,Chennai Super Kings
+47,Nishant Sindhu,Retained,ALL-ROUNDER,0,0,,Chennai Super Kings
+48,Prashant Solanki,Retained,BOWLER,0,0,,Chennai Super Kings
+49,Maheesh Theekshana,Retained,BOWLER,0,0,,Chennai Super Kings
+50,Kumar Kushagra,2000000,WICKETKEEPER,7.2,864,,Delhi Capital
+51,Jhye Richardson,15000000,BOWLER,5,600,,Delhi Capital
+52,Harry Brook,20000000,BATTER,4,480,SRH,Delhi Capital
+53,Sumit Kumar,2000000,ALL-ROUNDER,1,120,,Delhi Capital
+54,Shai Hope,7500000,WICKETKEEPER,0.75,90,,Delhi Capital
+55,Tristan Stubbs,5000000,WICKETKEEPER,0.5,60,MI,Delhi Capital
+56,Ricky Bhui,2000000,WICKETKEEPER,0.2,24,,Delhi Capital
+57,Rasikh Dar,2000000,BOWLER,0.2,24,,Delhi Capital
+58,Swastik Chhikara,2000000,BATTER,0.2,24,,Delhi Capital
+59,Rishabh Pant,Retained,WICKETKEEPER,0,0,,Delhi Capital
+60,Pravin Dubey,Retained,BOWLER,0,0,,Delhi Capital
+61,David Warner,Retained,BATTER,0,0,,Delhi Capital
+62,Vicky Ostwal,Retained,BOWLER,0,0,,Delhi Capital
+63,Prithvi Shaw,Retained,BATTER,0,0,,Delhi Capital
+64,Anrich Nortje,Retained,BOWLER,0,0,,Delhi Capital
+65,Abishek Porel,Retained,WICKETKEEPER,0,0,,Delhi Capital
+66,Kuldeep Yadav,Retained,BOWLER,0,0,,Delhi Capital
+67,Axar Patel,Retained,ALL-ROUNDER,0,0,,Delhi Capital
+68,Lungi Ngidi,Retained,BOWLER,0,0,,Delhi Capital
+69,Lalit Yadav,Retained,ALL-ROUNDER,0,0,,Delhi Capital
+70,Khaleel Ahmed,Retained,BOWLER,0,0,,Delhi Capital
+71,Mitchell Marsh,Retained,ALL-ROUNDER,0,0,,Delhi Capital
+72,Ishant Sharma,Retained,BOWLER,0,0,,Delhi Capital
+73,Yash Dhull,Retained,BATTER,0,0,,Delhi Capital
+74,Mukesh Kumar,Retained,BOWLER,0,0,,Delhi Capital
+75,Mitchell Starc,20000000,BOWLER,24.75,2970,,Kolkata Knight Riders
+76,Mujeeb Rahman,20000000,BOWLER,2,240,,Kolkata Knight Riders
+77,Sherfane Rutherford,15000000,BATTER,1.5,180,,Kolkata Knight Riders
+78,Gus Atkinson,10000000,BOWLER,1,120,,Kolkata Knight Riders
+79,Manish Pandey,5000000,BATTER,0.5,60,DC,Kolkata Knight Riders
+80,K.S. Bharat,5000000,WICKETKEEPER,0.5,60,GT,Kolkata Knight Riders
+81,Chetan Sakariya,5000000,BOWLER,0.5,60,DC,Kolkata Knight Riders
+82,Angkrish Raghuvanshi,2000000,BATTER,0.2,24,,Kolkata Knight Riders
+83,Ramandeep Singh,2000000,ALL-ROUNDER,0.2,24,MI,Kolkata Knight Riders
+84,Sakib Hussain,2000000,BOWLER,0.2,24,,Kolkata Knight Riders
+85,Nitish Rana,Retained,BATTER,0,0,,Kolkata Knight Riders
+86,Rinku Singh,Retained,BATTER,0,0,,Kolkata Knight Riders
+87,Rahmanullah Gurbaz,Retained,WICKETKEEPER,0,0,,Kolkata Knight Riders
+88,Shreyas Iyer,Retained,BATTER,0,0,,Kolkata Knight Riders
+89,Jason Roy,Retained,BATTER,0,0,,Kolkata Knight Riders
+90,Sunil Narine,Retained,ALL-ROUNDER,0,0,,Kolkata Knight Riders
+91,Suyash Sharma,Retained,BOWLER,0,0,,Kolkata Knight Riders
+92,Anukul Roy,Retained,ALL-ROUNDER,0,0,,Kolkata Knight Riders
+93,Andre Russell,Retained,ALL-ROUNDER,0,0,,Kolkata Knight Riders
+94,Venkatesh Iyer,Retained,ALL-ROUNDER,0,0,,Kolkata Knight Riders
+95,Harshit Rana,Retained,BOWLER,0,0,,Kolkata Knight Riders
+96,Vaibhav Arora,Retained,BOWLER,0,0,,Kolkata Knight Riders
+97,Varun Chakaravarthy,Retained,BOWLER,0,0,,Kolkata Knight Riders
+98,Harshal Patel,20000000,ALL-ROUNDER,11.75,1410,RCB,Punjab Kings
+99,Rilee Rossouw,20000000,BATTER,8,960,DC,Punjab Kings
+100,Chris Woakes,20000000,ALL-ROUNDER,4.2,504,,Punjab Kings
+101,Ashutosh Sharma,2000000,ALL-ROUNDER,0.2,24,,Punjab Kings
+102,Vishwanath Pratap Singh,2000000,ALL-ROUNDER,0.2,24,,Punjab Kings
+103,Shashank Singh,2000000,ALL-ROUNDER,0.2,24,,Punjab Kings
+104,Tanay Thyagarajann,2000000,ALL-ROUNDER,0.2,24,,Punjab Kings
+105,Prince Choudhary,2000000,BOWLER,0.2,24,,Punjab Kings
+106,Shikhar Dhawan,Retained,BATTER,0,0,,Punjab Kings
+107,Liam Livingstone,Retained,BATTER,0,0,,Punjab Kings
+108,Jonny Bairstow,Retained,WICKETKEEPER,0,0,,Punjab Kings
+109,Gurnoor Singh Brar,Retained,BOWLER,0,0,,Punjab Kings
+110,Jitesh Sharma,Retained,WICKETKEEPER,0,0,,Punjab Kings
+111,Shivam Singh,Retained,ALL-ROUNDER,0,0,,Punjab Kings
+112,Rahul Chahar,Retained,BOWLER,0,0,,Punjab Kings
+113,Prabhsimran Singh,Retained,WICKETKEEPER,0,0,,Punjab Kings
+114,Matthew Short,Retained,BATTER,0,0,,Punjab Kings
+115,Arshdeep Singh,Retained,BOWLER,0,0,,Punjab Kings
+116,Harpreet Bhatia,Retained,BATTER,0,0,,Punjab Kings
+117,Harpreet Brar,Retained,BOWLER,0,0,,Punjab Kings
+118,Atharva Taide,Retained,ALL-ROUNDER,0,0,,Punjab Kings
+119,Vidwath Kaverappa,Retained,BOWLER,0,0,,Punjab Kings
+120,Rishi Dhawan,Retained,ALL-ROUNDER,0,0,,Punjab Kings
+121,Kagiso Rabada,Retained,BOWLER,0,0,,Punjab Kings
+122,Sam Curran,Retained,ALL-ROUNDER,0,0,,Punjab Kings
+123,Nathan Ellis,Retained,BOWLER,0,0,,Punjab Kings
+124,Sikandar Raza,Retained,ALL-ROUNDER,0,0,,Punjab Kings
+125,Devdutt Padikkal,Traded,BATTER,,,,Lucknow Super Giants
+126,Shivam Mavi,5000000,BOWLER,6.4,768,GT,Lucknow Super Giants
+127,M. Siddharth,2000000,BOWLER,2.4,288,,Lucknow Super Giants
+128,David Willey,20000000,ALL-ROUNDER,2,240,RCB,Lucknow Super Giants
+129,Ashton Turner,10000000,BATTER,1,120,,Lucknow Super Giants
+130,Mohd. Arshad Khan,2000000,ALL-ROUNDER,0.2,24,MI,Lucknow Super Giants
+131,Arshin Kulkarni,2000000,ALL-ROUNDER,0.2,24,,Lucknow Super Giants
+132,KL Rahul,Retained,BATTER,0,0,,Lucknow Super Giants
+133,Quinton de Kock,Retained,WICKETKEEPER,0,0,,Lucknow Super Giants
+134,Nicholas Pooran,Retained,WICKETKEEPER,0,0,,Lucknow Super Giants
+135,Ayush Badoni,Retained,BATTER,0,0,,Lucknow Super Giants
+136,Kyle Mayers,Retained,BATTER,0,0,,Lucknow Super Giants
+137,Marcus Stoinis,Retained,ALL-ROUNDER,0,0,,Lucknow Super Giants
+138,Deepak Hooda,Retained,BATTER,0,0,,Lucknow Super Giants
+139,Ravi Bishnoi,Retained,BOWLER,0,0,,Lucknow Super Giants
+140,Naveen-ul-Haq,Retained,BOWLER,0,0,,Lucknow Super Giants
+141,Krunal Pandya,Retained,ALL-ROUNDER,0,0,,Lucknow Super Giants
+142,Yudhvir Singh,Retained,BOWLER,0,0,,Lucknow Super Giants
+143,Prerak Mankad,Retained,ALL-ROUNDER,0,0,,Lucknow Super Giants
+144,Yash Thakur,Retained,BOWLER,0,0,,Lucknow Super Giants
+145,Amit Mishra,Retained,BOWLER,0,0,,Lucknow Super Giants
+146,Mark Wood,Retained,BOWLER,0,0,,Lucknow Super Giants
+147,Mayank Yadav,Retained,BOWLER,0,0,,Lucknow Super Giants
+148,Mohsin Khan,Retained,BOWLER,0,0,,Lucknow Super Giants
+149,Hardik Pandya,Traded,ALL-ROUNDER,,,,Mumbai Indians
+150,Romario Shepherd,Traded,ALL-ROUNDER,,,,Mumbai Indians
+151,Gerald Coetzee,20000000,ALL-ROUNDER,5,600,,Mumbai Indians
+152,Nuwan Thushara,5000000,BOWLER,4.8,576,,Mumbai Indians
+153,Mohammad Nabi,15000000,ALL-ROUNDER,1.5,180,,Mumbai Indians
+154,Shreyas Gopal,2000000,BOWLER,0.2,24,,Mumbai Indians
+155,Naman Dhir,2000000,ALL-ROUNDER,0.2,24,,Mumbai Indians
+156,Anshul Kamboj,2000000,ALL-ROUNDER,0.2,24,,Mumbai Indians
+157,Shivalik Sharma,2000000,ALL-ROUNDER,0.2,24,,Mumbai Indians
+158,Dilshan Madushanka,5000000,BOWLER,4.6,0,,Mumbai Indians
+159,Rohit Sharma,Retained,BATTER,0,0,,Mumbai Indians
+160,Dewald Brevis,Retained,BATTER,0,0,,Mumbai Indians
+161,Suryakumar Yadav,Retained,BATTER,0,0,,Mumbai Indians
+162,Ishan Kishan,Retained,BATTER,0,0,,Mumbai Indians
+163,Tilak Varma,Retained,ALL-ROUNDER,0,0,,Mumbai Indians
+164,Tim David,Retained,BATTER,0,0,,Mumbai Indians
+165,Vishnu Vinod,Retained,WICKETKEEPER,0,0,,Mumbai Indians
+166,Arjun Tendulkar,Retained,BOWLER,0,0,,Mumbai Indians
+167,Cameron Green,Traded,ALL-ROUNDER,0,0,,Mumbai Indians
+168,Shams Mulani,Retained,ALL-ROUNDER,0,0,,Mumbai Indians
+169,Nehal Wadhera,Retained,BATTER,0,0,,Mumbai Indians
+170,Jasprit Bumrah,Retained,BOWLER,0,0,,Mumbai Indians
+171,Kumar Kartikeya,Retained,BOWLER,0,0,,Mumbai Indians
+172,Piyush Chawla,Retained,BOWLER,0,0,,Mumbai Indians
+173,Akash Madhwal,Retained,BOWLER,0,0,,Mumbai Indians
+174,Jason Behrendorff,Retained,BOWLER,0,0,,Mumbai Indians
+175,Mayank Dagar,Traded,BOWLER,,,,Royal Challengers Bengaluru
+176,Cameron Green,Traded,ALL-ROUNDER,,,,Royal Challengers Bengaluru
+177,Alzarri Joseph,10000000,BOWLER,11.5,1380,GT,Royal Challengers Bengaluru
+178,Yash Dayal,2000000,BOWLER,5,600,GT,Royal Challengers Bengaluru
+179,Lockie Ferguson,20000000,BOWLER,2,240,KKR,Royal Challengers Bengaluru
+180,Tom Curran,15000000,ALL-ROUNDER,1.5,180,,Royal Challengers Bengaluru
+181,Saurav Chuahan,2000000,BATTER,0.2,24,,Royal Challengers Bengaluru
+182,Swapnil Singh,2000000,ALL-ROUNDER,0.2,24,LSG,Royal Challengers Bengaluru
+183,Faf du Plessis,Retained,BATTER,0,0,,Royal Challengers Bengaluru
+184,Glenn Maxwell,Retained,BATTER,0,0,,Royal Challengers Bengaluru
+185,Virat Kohli,Retained,BATTER,0,0,,Royal Challengers Bengaluru
+186,Rajat Patidar,Retained,BATTER,0,0,,Royal Challengers Bengaluru
+187,Anuj Rawat,Retained,WICKETKEEPER,0,0,,Royal Challengers Bengaluru
+188,Dinesh Karthik,Retained,WICKETKEEPER,0,0,,Royal Challengers Bengaluru
+189,Suyash Prabhudessai,Retained,ALL-ROUNDER,0,0,,Royal Challengers Bengaluru
+190,Will Jacks,Retained,BATTER,0,0,,Royal Challengers Bengaluru
+191,Mahipal Lomror,Retained,ALL-ROUNDER,0,0,,Royal Challengers Bengaluru
+192,Karn Sharma,Retained,BOWLER,0,0,,Royal Challengers Bengaluru
+193,Manoj Bhandage,Retained,ALL-ROUNDER,0,0,,Royal Challengers Bengaluru
+194,Vyshak Vijaykumar,Retained,BOWLER,0,0,,Royal Challengers Bengaluru
+195,Akash Deep,Retained,BOWLER,0,0,,Royal Challengers Bengaluru
+196,Mohammed Siraj,Retained,BOWLER,0,0,,Royal Challengers Bengaluru
+197,Reece Topley,Retained,BOWLER,0,0,,Royal Challengers Bengaluru
+198,Himanshu Sharma,Retained,BOWLER,0,0,,Royal Challengers Bengaluru
+199,Rajan Kumar,Retained,BOWLER,0,0,,Royal Challengers Bengaluru
+200,Avesh Khan,Traded,BOWLER,,,,Rajasthan Royals
+201,Rovman Powell,10000000,BATTER,7.4,888,DC,Rajasthan Royals
+202,Shubham Dubey,2000000,BATTER,5.8,696,,Rajasthan Royals
+203,Nandre Burger,5000000,BOWLER,0.5,60,,Rajasthan Royals
+204,Tom Kohler-Cadmore,4000000,WICKETKEEPER,0.4,48,,Rajasthan Royals
+205,Abid Mushtaq,2000000,ALL-ROUNDER,0.2,24,,Rajasthan Royals
+206,Sanju Samson,Retained,WICKETKEEPER,0,0,,Rajasthan Royals
+207,Jos Buttler,Retained,WICKETKEEPER,0,0,,Rajasthan Royals
+208,Shimron Hetmyer,Retained,BATTER,0,0,,Rajasthan Royals
+209,Yashasvi Jaiswal,Retained,BATTER,0,0,,Rajasthan Royals
+210,Dhruv Jurel,Retained,BATTER,0,0,,Rajasthan Royals
+211,Riyan Parag,Retained,BATTER,0,0,,Rajasthan Royals
+212,Donovan Ferreira,Retained,WICKETKEEPER,0,0,,Rajasthan Royals
+213,Kunal Rathore,Retained,WICKETKEEPER,0,0,,Rajasthan Royals
+214,Ravichandran Ashwin,Retained,ALL-ROUNDER,0,0,,Rajasthan Royals
+215,Kuldeep Sen,Retained,BOWLER,0,0,,Rajasthan Royals
+216,Navdeep Saini,Retained,BOWLER,0,0,,Rajasthan Royals
+217,Prasidh Krishna,Retained,BOWLER,0,0,,Rajasthan Royals
+218,Sandeep Sharma,Retained,BOWLER,0,0,,Rajasthan Royals
+219,Trent Boult,Retained,BOWLER,0,0,,Rajasthan Royals
+220,Yuzvendra Chahal,Retained,BOWLER,0,0,,Rajasthan Royals
+221,Adam Zampa,Retained,BOWLER,0,0,,Rajasthan Royals
+222,Shahbaz Ahmed,Traded,ALL-ROUNDER,,,,Sunrisers Hyderabad
+223,Pat Cummins,20000000,ALL-ROUNDER,20.5,2460,,Sunrisers Hyderabad
+224,Travis Head,20000000,BATTER,6.8,816,,Sunrisers Hyderabad
+225,Jaydev Unadkat,5000000,BOWLER,1.6,192,LSG,Sunrisers Hyderabad
+226,Wanindu Hasaranga,15000000,ALL-ROUNDER,1.5,180,RCB,Sunrisers Hyderabad
+227,Akash Singh,2000000,BOWLER,0.2,24,CSK,Sunrisers Hyderabad
+228,Jhathavedh Subramanyan,2000000,BOWLER,0.2,24,,Sunrisers Hyderabad
+229,Abdul Samad,Retained,BATTER,0,0,,Sunrisers Hyderabad
+230,Aiden Markram,Retained,BATTER,0,0,,Sunrisers Hyderabad
+231,Rahul Tripathi,Retained,BATTER,0,0,,Sunrisers Hyderabad
+232,Glenn Phillips,Retained,ALL-ROUNDER,0,0,,Sunrisers Hyderabad
+233,Heinrich Klaasen,Retained,BATTER,0,0,,Sunrisers Hyderabad
+234,Mayank Agarwal,Retained,BATTER,0,0,,Sunrisers Hyderabad
+235,Anmolpreet Singh,Retained,BATTER,0,0,,Sunrisers Hyderabad
+236,Upendra Singh Yadav,Retained,WICKETKEEPER,0,0,,Sunrisers Hyderabad
+237,Nitish Kumar Reddy,Retained,ALL-ROUNDER,0,0,,Sunrisers Hyderabad
+238,Abhishek Sharma,Retained,BATTER,0,0,,Sunrisers Hyderabad
+239,Marco Jansen,Retained,ALL-ROUNDER,0,0,,Sunrisers Hyderabad
+240,Washington Sundar,Retained,ALL-ROUNDER,0,0,,Sunrisers Hyderabad
+241,Sanvir Singh,Retained,ALL-ROUNDER,0,0,,Sunrisers Hyderabad
+242,Bhuvneshwar Kumar,Retained,BOWLER,0,0,,Sunrisers Hyderabad
+243,T Natarajan,Retained,BOWLER,0,0,,Sunrisers Hyderabad
+244,Mayank Markande,Retained,BOWLER,0,0,,Sunrisers Hyderabad
+245,Umran Malik,Retained,BOWLER,0,0,,Sunrisers Hyderabad
+246,Fazalhaq Farooqi,Retained,BOWLER,0,0,,Sunrisers Hyderabad
+247,Karun Nair,5000000,BATTER,NaN,NaN,LSG,Unsold
+248,Steve Smith,20000000,BATTER,NaN,NaN,,Unsold
+249,Josh Inglis,20000000,WICKETKEEPER,NaN,NaN,,Unsold
+250,Kusal Mendis,5000000,WICKETKEEPER,NaN,NaN,,Unsold
+251,Philip Salt,15000000,WICKETKEEPER,NaN,NaN,DC,Unsold
+252,Josh Hazlewood,20000000,BOWLER,NaN,NaN,RCB,Unsold
+253,Akeal Hosein,5000000,BOWLER,NaN,NaN,SRH,Unsold
+254,Adil Rashid,20000000,BOWLER,NaN,NaN,SRH,Unsold
+255,Mohammad Waqar Salamkheil,5000000,BOWLER,NaN,NaN,,Unsold
+256,Tabraiz Shamsi,5000000,BOWLER,NaN,NaN,,Unsold
+257,Ish Sodhi,7500000,BOWLER,NaN,NaN,,Unsold
+258,Priyansh Arya,2000000,BATTER,NaN,NaN,,Unsold
+259,Rohan Kunnummal,2000000,BATTER,NaN,NaN,,Unsold
+260,Manan Vohra,2000000,BATTER,NaN,NaN,LSG,Unsold
+261,Raj Angad Bawa,2000000,ALL-ROUNDER,NaN,NaN,PBKS,Unsold
+262,Sarfaraz Khan,2000000,ALL-ROUNDER,NaN,NaN,DC,Unsold
+263,Vivrant Sharma,2000000,ALL-ROUNDER,NaN,NaN,SRH,Unsold
+264,Atit Sheth,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+265,Hrithik Shokeen,2000000,ALL-ROUNDER,NaN,NaN,MI,Unsold
+266,Urvil Patel,2000000,WICKETKEEPER,NaN,NaN,GT,Unsold
+267,Vishnu Solanki,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+268,Ishan Porel,2000000,BOWLER,NaN,NaN,,Unsold
+269,Kuldip Yadav,2000000,BOWLER,NaN,NaN,RR,Unsold
+270,Murgan Ashwin,2000000,BOWLER,NaN,NaN,RR,Unsold
+271,Pulkit Narang,2000000,BOWLER,NaN,NaN,,Unsold
+272,Shiva Singh,2000000,BOWLER,NaN,NaN,,Unsold
+273,Finn Allen,7500000,BATTER,NaN,NaN,RCB,Unsold
+274,Alick Athanaze,5000000,BATTER,NaN,NaN,,Unsold
+275,Mark Chapman,5000000,BATTER,NaN,NaN,,Unsold
+276,Samuel Hain,5000000,BATTER,NaN,NaN,,Unsold
+277,Reeza Hendricks,5000000,BATTER,NaN,NaN,,Unsold
+278,Brandon King,5000000,BATTER,NaN,NaN,,Unsold
+279,Colin Munro,15000000,BATTER,NaN,NaN,,Unsold
+280,Rassie Van Der Dussen,20000000,BATTER,NaN,NaN,,Unsold
+281,James Vince,20000000,BATTER,NaN,NaN,,Unsold
+282,Ibrahim Zadran,5000000,BATTER,NaN,NaN,,Unsold
+283,Najibullah Zadran,5000000,BATTER,NaN,NaN,,Unsold
+284,Sean Abbott,20000000,ALL-ROUNDER,NaN,NaN,,Unsold
+285,Ashton Agar,10000000,ALL-ROUNDER,NaN,NaN,,Unsold
+286,Wesley Agar,5000000,ALL-ROUNDER,NaN,NaN,,Unsold
+287,Qais Ahamad,5000000,ALL-ROUNDER,NaN,NaN,,Unsold
+288,Rehan Ahmed,5000000,ALL-ROUNDER,NaN,NaN,,Unsold
+289,Fabian Allen,7500000,ALL-ROUNDER,NaN,NaN,,Unsold
+290,Charith Asalanka,5000000,ALL-ROUNDER,NaN,NaN,,Unsold
+291,Michael Bracewell,10000000,ALL-ROUNDER,NaN,NaN,RCB,Unsold
+292,Brydon Carse,5000000,ALL-ROUNDER,NaN,NaN,,Unsold
+293,Ben Cutting,5000000,ALL-ROUNDER,NaN,NaN,,Unsold
+294,Matthew Forde,5000000,ALL-ROUNDER,NaN,NaN,,Unsold
+295,George Garton,5000000,ALL-ROUNDER,NaN,NaN,,Unsold
+296,Jason Holder,15000000,ALL-ROUNDER,NaN,NaN,RR,Unsold
+297,George Linde,5000000,ALL-ROUNDER,NaN,NaN,,Unsold
+298,Keshav Maharaj,5000000,ALL-ROUNDER,NaN,NaN,,Unsold
+299,Wiaan Mulder,5000000,ALL-ROUNDER,NaN,NaN,,Unsold
+300,James Neesham,15000000,ALL-ROUNDER,NaN,NaN,,Unsold
+301,Jamie Overton,20000000,ALL-ROUNDER,NaN,NaN,,Unsold
+302,Keemo Paul,7500000,ALL-ROUNDER,NaN,NaN,,Unsold
+303,Dwaine Pretorius,10000000,ALL-ROUNDER,NaN,NaN,CSK,Unsold
+304,Daniel Sams,15000000,ALL-ROUNDER,NaN,NaN,LSG,Unsold
+305,Dasun Shanaka,5000000,ALL-ROUNDER,NaN,NaN,GT,Unsold
+306,Matthew Short,5000000,ALL-ROUNDER,NaN,NaN,,Unsold
+307,Odean Smith,5000000,ALL-ROUNDER,NaN,NaN,GT,Unsold
+308,Hanuma Vihari,5000000,ALL-ROUNDER,NaN,NaN,,Unsold
+309,Sam Billings,10000000,WICKETKEEPER,NaN,NaN,,Unsold
+310,Johnson Charles,5000000,WICKETKEEPER,NaN,NaN,,Unsold
+311,Ben Duckett,20000000,WICKETKEEPER,NaN,NaN,,Unsold
+312,Varun Aaron,5000000,BOWLER,NaN,NaN,,Unsold
+313,Fareed Ahmad,5000000,BOWLER,NaN,NaN,,Unsold
+314,Taskin Ahmed,7500000,BOWLER,NaN,NaN,,Unsold
+315,Dushmanta Chameera,5000000,BOWLER,NaN,NaN,,Unsold
+316,Ben Dwarshuis,5000000,BOWLER,NaN,NaN,,Unsold
+317,Richard Gleeson,5000000,BOWLER,NaN,NaN,,Unsold
+318,Matt Henry,7500000,BOWLER,NaN,NaN,,Unsold
+319,Md Shoriful Islam,5000000,BOWLER,NaN,NaN,,Unsold
+320,Kyle Jamieson,10000000,BOWLER,NaN,NaN,CSK,Unsold
+321,Chris Jordan,15000000,BOWLER,NaN,NaN,MI,Unsold
+322,Siddharth Kaul,5000000,BOWLER,NaN,NaN,RCB,Unsold
+323,Lahiru Kumara,5000000,BOWLER,NaN,NaN,,Unsold
+324,Obed Mccoy,5000000,BOWLER,NaN,NaN,RR,Unsold
+325,Riley Meredith,10000000,BOWLER,NaN,NaN,MI,Unsold
+326,Tymal Mills,15000000,BOWLER,NaN,NaN,,Unsold
+327,Adam Milne,10000000,BOWLER,NaN,NaN,CSK,Unsold
+328,Lance Morris,7500000,BOWLER,NaN,NaN,,Unsold
+329,Blessing Muzarabani,5000000,BOWLER,NaN,NaN,,Unsold
+330,Richard Ngarava,5000000,BOWLER,NaN,NaN,,Unsold
+331,Wayne Parnell,10000000,BOWLER,NaN,NaN,RCB,Unsold
+332,Ollie Robinson,7500000,BOWLER,NaN,NaN,,Unsold
+333,George Scrimshaw,5000000,BOWLER,NaN,NaN,,Unsold
+334,Tim Southee,15000000,BOWLER,NaN,NaN,KKR,Unsold
+335,Barinder Sran,5000000,BOWLER,NaN,NaN,,Unsold
+336,Billy Stanlake,7500000,BOWLER,NaN,NaN,,Unsold
+337,Olly Stone,7500000,BOWLER,NaN,NaN,,Unsold
+338,Oshane Thomas,5000000,BOWLER,NaN,NaN,,Unsold
+339,Sandeep Warrier,5000000,BOWLER,NaN,NaN,MI,Unsold
+340,Lizaad Williams,5000000,BOWLER,NaN,NaN,,Unsold
+341,Luke Wood,5000000,BOWLER,NaN,NaN,,Unsold
+342,Dinesh Bana,2000000,BATTER,NaN,NaN,,Unsold
+343,Rajat Dey,2000000,BATTER,NaN,NaN,,Unsold
+344,Abhimanyu Easwaran,2000000,BATTER,NaN,NaN,,Unsold
+345,Rithik Easwaran,2000000,BATTER,NaN,NaN,,Unsold
+346,Chirag Gandhi,2000000,BATTER,NaN,NaN,,Unsold
+347,Nikhil Gangta,2000000,BATTER,NaN,NaN,,Unsold
+348,Sudip Gharami,2000000,BATTER,NaN,NaN,,Unsold
+349,Ansh Gosai,2000000,BATTER,NaN,NaN,,Unsold
+350,Azim Kazi,2000000,BATTER,NaN,NaN,,Unsold
+351,Amandeep Khare,2000000,BATTER,NaN,NaN,,Unsold
+352,Ankit Kumar,2000000,BATTER,NaN,NaN,,Unsold
+353,Bhupen Lalwani,2000000,BATTER,NaN,NaN,,Unsold
+354,Pukhraj Mann,2000000,BATTER,NaN,NaN,,Unsold
+355,Tanmay Mishra,2000000,BATTER,NaN,NaN,,Unsold
+356,Salman Nizar,2000000,BATTER,NaN,NaN,,Unsold
+357,Priyank Panchal,2000000,BATTER,NaN,NaN,,Unsold
+358,Akshat Raghuwanshi,2000000,BATTER,NaN,NaN,,Unsold
+359,Ekant Sen,2000000,BATTER,NaN,NaN,,Unsold
+360,Subhranshu Senapati,2000000,BATTER,NaN,NaN,CSK,Unsold
+361,Naushad Shaikh,2000000,BATTER,NaN,NaN,,Unsold
+362,Dhruv Shorey,2000000,BATTER,NaN,NaN,,Unsold
+363,Himmat Singh,2000000,BATTER,NaN,NaN,,Unsold
+364,Virat Singh,2000000,BATTER,NaN,NaN,,Unsold
+365,Shashank Singh,2000000,BATTER,NaN,NaN,,Unsold
+366,Sumeet Verma,2000000,BATTER,NaN,NaN,,Unsold
+367,P.A. Abdul,2000000,ALL-ROUNDER,NaN,NaN,RR,Unsold
+368,Murugan Abhishek,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+369,Atharva Ankolekar,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+370,Baba Aparajith,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+371,Jass Inder Baidwan,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+372,Corbin Bosch,3000000,ALL-ROUNDER,NaN,NaN,,Unsold
+373,Rahul Buddhi,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+374,Vaisakh Chandran,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+375,Writtick Chatterjee,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+376,Raj Chaudhary,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+377,Ravi Chauhan,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+378,Ashwin Das,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+379,Aarya Desai,2000000,ALL-ROUNDER,NaN,NaN,KKR,Unsold
+380,Vineet Dhankhar,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+381,Harsh Dubey,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+382,Prerit Dutta,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+383,Jake Fraser-Mcgurk,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+384,Shubhang Hegde,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+385,Benny Howell,4000000,ALL-ROUNDER,NaN,NaN,,Unsold
+386,Saransh Jain,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+387,Duan Jansen,2000000,ALL-ROUNDER,NaN,NaN,MI,Unsold
+388,Mohammad Kaif,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+389,Aman Khan,2000000,ALL-ROUNDER,NaN,NaN,DC,Unsold
+390,Mohd Arslan Khan,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+391,Musheer Khan,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+392,Tanush Kotian,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+393,Manvanth Kumar,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+394,Saurabh Kumar,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+395,Dev Lakra,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+396,Nasir Lone,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+397,Kaushik Maity,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+398,Divij Mehra,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+399,Mani Sankar Mura Singh,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+400,Kamlesh Nagarkoti,3000000,ALL-ROUNDER,NaN,NaN,DC,Unsold
+401,Sanjay Pahal,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+402,Jitender Pal,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+403,Saumy Pandey,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+404,Ansh Patel,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+405,Sairaj Patil,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+406,Pradosh Paul,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+407,Shubham Singh Pundir,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+408,Atal Rai,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+409,Abhimanyusingh Rajput,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+410,Mohit Rathee,2000000,ALL-ROUNDER,NaN,NaN,PBKS,Unsold
+411,Ninad Rathva,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+412,Rohit Rayudu,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+413,Aniketh Reddy,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+414,Mohit Redkar,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+415,Jalaj Saxena,4000000,ALL-ROUNDER,NaN,NaN,,Unsold
+416,Akash Sengupta,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+417,Suryansh Shedge,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+418,Aradhya Shukla,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+419,Utkarsh Singh,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+420,Prenelan Subrayen,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+421,Ravi Teja,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+422,Akash Vashisht,2000000,ALL-ROUNDER,NaN,NaN,,Unsold
+423,David Wiese,10000000,ALL-ROUNDER,NaN,NaN,KKR,Unsold
+424,Mohit Ahlawat,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+425,G. Ajitesh,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+426,L.R. Chethan,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+427,Gourav Choudhary,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+428,Harvik Desai,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+429,Shakir Gandhi,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+430,Sumit Ghadigaonkar,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+431,Baba Indrajith,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+432,Bhagmender Lather,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+433,Anmol Malhotra,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+434,Darshan Misal,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+435,Nikhil Naik,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+436,Prasad Pawar,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+437,Mahesh Pithiya,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+438,William Salzmann,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+439,Bipin Saurabh,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+440,B.R. Sharath,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+441,K.L. Shrijith,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+442,Avneesh Sudha,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+443,Aditya Tare,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+444,Nihal Ullal,2000000,WICKETKEEPER,NaN,NaN,,Unsold
+445,K.M Asif,2000000,BOWLER,NaN,NaN,RR,Unsold
+446,Mohit Avasthi,2000000,BOWLER,NaN,NaN,,Unsold
+447,Ottneil Baartman,2000000,BOWLER,NaN,NaN,,Unsold
+448,Basit Bashir,2000000,BOWLER,NaN,NaN,,Unsold
+449,Waseem Bashir,2000000,BOWLER,NaN,NaN,,Unsold
+450,Sachin Bhosale,2000000,BOWLER,NaN,NaN,,Unsold
+451,Devendra Singh Bora,2000000,BOWLER,NaN,NaN,,Unsold
+452,Gurnoor Singh Brar,2000000,BOWLER,NaN,NaN,PBKS,Unsold
+453,Saurabh Dubey,2000000,BOWLER,NaN,NaN,,Unsold
+454,Mrinmoy Dutta,2000000,BOWLER,NaN,NaN,,Unsold
+455,Vishal Godara,2000000,BOWLER,NaN,NaN,,Unsold
+456,Money Grewal,2000000,BOWLER,NaN,NaN,,Unsold
+457,Arpit Guleria,2000000,BOWLER,NaN,NaN,LSG,Unsold
+458,Mukhtar Hussain,2000000,BOWLER,NaN,NaN,,Unsold
+459,Shamar Joseph,2000000,BOWLER,NaN,NaN,,Unsold
+460,Mohammed Kaif,2000000,BOWLER,NaN,NaN,,Unsold
+461,Shubham Kapse,2000000,BOWLER,NaN,NaN,,Unsold
+462,Devang Karamta,2000000,BOWLER,NaN,NaN,,Unsold
+463,Kulwant Khejroliya,2000000,BOWLER,NaN,NaN,KKR,Unsold
+464,Ravi Kumar,2000000,BOWLER,NaN,NaN,,Unsold
+465,Ashwani Kumar,2000000,BOWLER,NaN,NaN,,Unsold
+466,Raj Limbani,2000000,BOWLER,NaN,NaN,,Unsold
+467,Kwena Maphaka,2000000,BOWLER,NaN,NaN,,Unsold
+468,Lukman Hussain Meriwala,2000000,BOWLER,NaN,NaN,,Unsold
+469,Venkatesh Muralidhara,2000000,BOWLER,NaN,NaN,,Unsold
+470,William O'Rourke,2000000,BOWLER,NaN,NaN,,Unsold
+471,Rakshan Readdi,2000000,BOWLER,NaN,NaN,,Unsold
+472,Manish Reddy,2000000,BOWLER,NaN,NaN,,Unsold
+473,Monish Reddy,2000000,BOWLER,NaN,NaN,,Unsold
+474,Akhin Sathar,2000000,BOWLER,NaN,NaN,,Unsold
+475,Divesh Sharma,2000000,BOWLER,NaN,NaN,,Unsold
+476,Ashok Sharma,2000000,BOWLER,NaN,NaN,,Unsold
+477,Abhilash Shetty,2000000,BOWLER,NaN,NaN,,Unsold
+478,Rahul Shukla,2000000,BOWLER,NaN,NaN,,Unsold
+479,Manit Singh,2000000,BOWLER,NaN,NaN,,Unsold
+480,Gurjapneet Singh,2000000,BOWLER,NaN,NaN,,Unsold
+481,Basil Thampi,3000000,BOWLER,NaN,NaN,,Unsold
+482,Paul Van Meekeren,2000000,BOWLER,NaN,NaN,,Unsold
+483,Nitin Verma,2000000,BOWLER,NaN,NaN,,Unsold
+484,Chris Wood,2000000,BOWLER,NaN,NaN,,Unsold
+485,Gourav Yadav,2000000,BOWLER,NaN,NaN,,Unsold
+486,Lalit Yadav,3000000,BOWLER,NaN,NaN,,Unsold
+487,Prithvi Raj Yarra,2000000,BOWLER,NaN,NaN,,Unsold
+488,Mujtaba Yousuf,2000000,BOWLER,NaN,NaN,,Unsold
+489,Shubham Agrawal,2000000,BOWLER,NaN,NaN,,Unsold
+490,Mustaq Beg,2000000,BOWLER,NaN,NaN,,Unsold
+491,K.C Cariappa,2000000,BOWLER,NaN,NaN,RR,Unsold
+492,Ganesh Chaudhary,2000000,BOWLER,NaN,NaN,,Unsold
+493,Yuvraj Chudasama,2000000,BOWLER,NaN,NaN,,Unsold
+494,Jasmer Dhankhar,2000000,BOWLER,NaN,NaN,,Unsold
+495,Chintal Gandhi,2000000,BOWLER,NaN,NaN,,Unsold
+496,Allah Ghazanfar,2000000,BOWLER,NaN,NaN,,Unsold
+497,Raghav Goyal,2000000,BOWLER,NaN,NaN,MI,Unsold
+498,Shreyas Gurav,2000000,BOWLER,NaN,NaN,,Unsold
+499,Vishu Kashyap,2000000,BOWLER,NaN,NaN,,Unsold
+500,S Midhun,3000000,BOWLER,NaN,NaN,,Unsold
+501,Izharulhuq Naveed,3000000,BOWLER,NaN,NaN,,Unsold
+502,Bhuwan Rohilla,2000000,BOWLER,NaN,NaN,,Unsold
+503,Shivam Sharma,2000000,BOWLER,NaN,NaN,,Unsold
+504,Digvesh Singh,2000000,BOWLER,NaN,NaN,,Unsold
+505,Jagadeesha Suchith,2000000,BOWLER,NaN,NaN,,Unsold
+506,B. Surya,2000000,BOWLER,NaN,NaN,,Unsold
+507,Pankaj Yadav,2000000,BOWLER,NaN,NaN,,Unsold
